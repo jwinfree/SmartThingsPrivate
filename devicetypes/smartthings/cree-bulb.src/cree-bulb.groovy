@@ -19,6 +19,7 @@ metadata {
 
         capability "Actuator"
         capability "Configuration"
+        capability "Polling"
         capability "Refresh"
         capability "Switch"
         capability "Switch Level"
